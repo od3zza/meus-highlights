@@ -18,5 +18,24 @@
         "highlight_note": "Nota da nota."
       }
     ]
+  },
+  "https://siegarettes.medium.com/the-art-of-nothing-a-look-at-negative-space-within-videogames-b92cf950cb73": {
+    "date": "2026-04-27",
+    "title": "The Art of Nothing: A Look at Negative Space within Videogames | by amr al-aaser | Medium",
+    "thumbnail": "",
+    "tags": [
+      "Art",
+      "Videogames"
+    ],
+    "summary": "",
+    "page_comment": "Nota da página.",
+    "highlights": [
+      {
+        "id": "735e2142-88d4-43f3-ac77-396caa25dac8",
+        "highlight": "One of the most important, though perhaps less considered, aspects of art is negative space. In traditional fine art spaces this refers to any space not taken up by the focal point or main subject of an image.",
+        "color": "#add8e6",
+        "highlight_note": "Nota de novo."
+      }
+    ]
   }
 }
