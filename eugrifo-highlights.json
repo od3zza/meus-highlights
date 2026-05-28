@@ -2238,5 +2238,24 @@
         "highlight_note": ""
       }
     ]
+  },
+  "https://www.gamedeveloper.com/game-platforms/a-slow-gaming-manifesto": {
+    "date": "2026-05-28",
+    "title": "A slow gaming manifesto",
+    "thumbnail": "",
+    "tags": [
+      "slow gaming",
+      "game design"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "0c6c03bb-d325-470a-8190-5b884d3d8392",
+        "highlight": "The Slow Movement started in Italy in the 1980s, with the first Slow Food restaurant. The food it served was sustainable, local, organic, and wholesome.",
+        "color": "#e6df0a",
+        "highlight_note": ""
+      }
+    ]
   }
 }
