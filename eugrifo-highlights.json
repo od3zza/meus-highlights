@@ -2257,5 +2257,26 @@
         "highlight_note": ""
       }
     ]
+  },
+  "https://www.dianagheorghiu.com/": {
+    "date": "2026-05-30",
+    "title": "Home | Diana Gheorghiu",
+    "thumbnail": "",
+    "tags": [
+      "Diana Gheorghiu",
+      "arte digital",
+      "instalação",
+      "artista multimedia"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "9b2b2363-6ea8-406f-bfb6-dafd99770aa4",
+        "highlight": "We’re living in the age of neurological disorders. According to philosopher Byung-Chul Han, depression, ADHD, borderline, and burnout will mark the 21st century (The Burnout Society, 2010). We are all anxious all the time, scared for our individual and collective future. Architectural theorists Beatriz Colomina and Mark Wigley describe it as having “become allergic to ourselves, to our own hyperextended body in a kind of autoimmune disorder” (Are We Human?, 2017).",
+        "color": "#e6df0a",
+        "highlight_note": "Descritivo de um trabalho de 2024 da Diana \"Whatever Remains Unchanged Is Already Dead\", onde ela reflete sobre questões contemporâneas. Também menciona Byung-Chul Han."
+      }
+    ]
   }
 }
