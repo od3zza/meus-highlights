@@ -2404,21 +2404,5 @@
         "highlight_note": ""
       }
     ]
-  },
-  "https://od3zza.github.io/eugrifo/": {
-    "date": "2026-06-08",
-    "title": "EuGrifo — Guia de Instalação",
-    "thumbnail": "",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "id": "bc088506-446d-4a40-a6fb-fa6a4b59cb44",
-        "highlight": "O EuGrifo é uma extensão minimalista que usa o GitHub como banco de dados pessoal para suas leituras (Web Clipping). Sem servidores de terceiros, sem mensalidades e sem plataformas fechadas: todo o conteúdo salvo pertence a você e fica sob seu controle.",
-        "color": "#e6df0a",
-        "highlight_note": ""
-      }
-    ]
   }
 }
