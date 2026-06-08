@@ -2306,5 +2306,27 @@
         "highlight_note": ""
       }
     ]
+  },
+  "https://jonasbers.com/crap-video-synth-for-10/": {
+    "date": "2026-06-08",
+    "title": "How to make a crap video synth for $10 |",
+    "thumbnail": "",
+    "tags": [
+      "dither",
+      "dithering",
+      "synthesizer",
+      "diy",
+      "synth"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "b099ff97-def2-43a3-af23-519dbeee70bd",
+        "highlight": "The CHA/V (CHEAP, HACKY, A/V) is a DIY, audiovisual, A/V, video synthesizer. If you are new to video synths, fasten your seat belt. You just opened up a huge can of wormholes.",
+        "color": "#e6df0a",
+        "highlight_note": ""
+      }
+    ]
   }
 }
