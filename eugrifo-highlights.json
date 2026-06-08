@@ -2328,5 +2328,26 @@
         "highlight_note": ""
       }
     ]
+  },
+  "https://www.youtube.com/watch?v=zMlJFY3scrQ": {
+    "date": "2026-06-08",
+    "title": "DIY Video Synth On a Budget! How To Circuit The Bend GBS-8100 - YouTube",
+    "thumbnail": "",
+    "tags": [
+      "youtube",
+      "video",
+      "synth",
+      "diy"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "91cd4521-63b3-475c-954e-35f7e3114721",
+        "highlight": "DIY Video Synth On a Budget! How To Circuit The Bend GBS-8100",
+        "color": "#e6df0a",
+        "highlight_note": ""
+      }
+    ]
   }
 }
