@@ -2349,5 +2349,26 @@
         "highlight_note": ""
       }
     ]
+  },
+  "https://www.youtube.com/watch?v=hxR_kOaR1xM": {
+    "date": "2026-06-08",
+    "title": "Build The Ultimate DIY Video Synth - YouTube",
+    "thumbnail": "",
+    "tags": [
+      "youtube",
+      "video",
+      "synth",
+      "diy"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "8483d143-e890-471a-8e65-9fe52e192d0e",
+        "highlight": "Build The Ultimate DIY Video Synth",
+        "color": "#e6df0a",
+        "highlight_note": ""
+      }
+    ]
   }
 }
