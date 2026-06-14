@@ -2404,5 +2404,27 @@
         "highlight_note": ""
       }
     ]
+  },
+  "https://www.gamejournal.it/wp-content/uploads/2014/04/GAME_3_Subcultures_Journal_Menotti.pdf": {
+    "date": "2026-06-14",
+    "title": "GAME_3_Subcultures_Journal_Menotti.pdf",
+    "thumbnail": "",
+    "tags": [
+      "machinima",
+      "artigo",
+      "videogame culture",
+      "documento",
+      "pdf"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "f44845ec-21d8-47dd-a237-819948ca9276",
+        "highlight": "This paper outlines an alternative genealogy of “non-narrative machinima”  by the means of tracing a parallel with different cinematographic genres.  It analyses the circuit of production and distribution of such material as a  field for modes of superplay, in which users both compete and collaborate.  Doing so, it proposes that the recording of playthroughs, a practice seemingly  secondary to videogame consumption, might constitute an essential part of its  culture and development, creating meaningful interfaces between players and  industries.",
+        "color": "#e6df0a",
+        "highlight_note": ""
+      }
+    ]
   }
 }
