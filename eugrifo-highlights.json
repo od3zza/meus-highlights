@@ -2493,6 +2493,12 @@
         "highlight": "A primeira fase da Internet surgiu nos anos 1990 e era composta por páginas com hiperlinks. Os sites eram predominantemente informativos, com layouts bastante simples, poucos recursos multimídia e a maior parte do conteúdo em texto. Os usuários podiam apenas acessar, ler e navegar entre páginas, com pouca ou nenhuma ferramenta de interação ou feedback.",
         "color": "#e6df0a",
         "highlight_note": ""
+      },
+      {
+        "id": "07adb7c3-eb2e-453a-b3b9-f1a4df679140",
+        "highlight": "a Web 2.0 é marcada por maior interatividade e colaboração entre usuários, além de uma experiência mais rica. Essa fase viu o crescimento das plataformas de redes sociais, blogs e outras ferramentas que permitem criar e compartilhar conteúdo próprio. Grandes plataformas — como Google, Facebook e Instagram — centralizaram o controle sobre os dados dos usuários.",
+        "color": "#e6df0a",
+        "highlight_note": ""
       }
     ]
   }
