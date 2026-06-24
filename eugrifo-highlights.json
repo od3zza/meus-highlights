@@ -2487,6 +2487,12 @@
         "highlight": "Vivemos num momento em que a Web 2 e a Web3 coexistem — cada geração não é algo separado, mas apenas uma continuação da web que já conhecemos.",
         "color": "#e6df0a",
         "highlight_note": ""
+      },
+      {
+        "id": "53530a40-1f60-4cf5-82a8-2f78a5463b91",
+        "highlight": "A primeira fase da Internet surgiu nos anos 1990 e era composta por páginas com hiperlinks. Os sites eram predominantemente informativos, com layouts bastante simples, poucos recursos multimídia e a maior parte do conteúdo em texto. Os usuários podiam apenas acessar, ler e navegar entre páginas, com pouca ou nenhuma ferramenta de interação ou feedback.",
+        "color": "#e6df0a",
+        "highlight_note": ""
       }
     ]
   }
