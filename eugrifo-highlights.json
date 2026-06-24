@@ -2459,6 +2459,12 @@
         "highlight": "A propriedade de  descentralização se explica pelas informações não dependerem de um servidor  central, pois uma blockchain funciona como um livro de registros compartilhado  entre computadores — denominados “nós” — que integram a mesma rede que  mantém um funcionamento ininterrupto, 24 horas por dia, todos os dias",
         "color": "#90ee90",
         "highlight_note": ""
+      },
+      {
+        "id": "05df05cd-56d1-48c8-b788-1b7bdee48f72",
+        "highlight": "Fungível é um termo jurídico para definir coisas substituíveis, como por  exemplo automóveis, móveis e dinheiro. Já infungível é o que não se pode  substituir: obras de arte, bens imóveis (casas, apartamentos e terrenos), ou objetos  raros dos quais restam um único exemplar são exemplos.",
+        "color": "#90ee90",
+        "highlight_note": ""
       }
     ]
   }
