@@ -2473,5 +2473,21 @@
         "highlight_note": ""
       }
     ]
+  },
+  "https://numadessas.com.br/wiki/wiki/internet-generations/": {
+    "date": "2026-06-24",
+    "title": "numawiki — Computadores Fazem Arte",
+    "thumbnail": "",
+    "tags": [],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "43ebad71-53f9-4926-a56d-62453a502758",
+        "highlight": "Vivemos num momento em que a Web 2 e a Web3 coexistem — cada geração não é algo separado, mas apenas uma continuação da web que já conhecemos.",
+        "color": "#e6df0a",
+        "highlight_note": ""
+      }
+    ]
   }
 }
