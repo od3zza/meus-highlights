@@ -2511,6 +2511,12 @@
         "highlight": "Semântica é o ramo da linguística que estuda o que as palavras realmente significam.",
         "color": "#add8e6",
         "highlight_note": ""
+      },
+      {
+        "id": "24d9d628-a3fe-46e9-abf2-cef6a38c0bcb",
+        "highlight": "O conceito da Web Semântica foi introduzido em 2001 por Tim Berners-Lee e propõe tornar a informação na internet compreensível para os computadores — não apenas para os humanos. A ideia é atribuir significado estruturado ao conteúdo por meio de padrões como o RDF (Resource Description Framework), que organiza dados em triplas do tipo sujeito → propriedade → objeto. Em vez de buscar palavras-chave isoladas, os sistemas podem interpretar relações: entendendo que \"peru\" se refere a uma ave e não a um país, ou respondendo a perguntas complexas combinando informações de múltiplas fontes.",
+        "color": "#e6df0a",
+        "highlight_note": ""
       }
     ]
   }
