@@ -2465,6 +2465,12 @@
         "highlight": "Fungível é um termo jurídico para definir coisas substituíveis, como por  exemplo automóveis, móveis e dinheiro. Já infungível é o que não se pode  substituir: obras de arte, bens imóveis (casas, apartamentos e terrenos), ou objetos  raros dos quais restam um único exemplar são exemplos.",
         "color": "#90ee90",
         "highlight_note": ""
+      },
+      {
+        "id": "80e2b3ff-6654-40fd-9cb0-2c22b1ba92e6",
+        "highlight": "Mesmo com o ideal de  descentralização e as promessas antiautoritárias, as blockchains, na prática,  concentram poder nas mãos de poucos que sustentam discursos fortemente  alinhados a ideias neoliberais (Menotti, 2021)",
+        "color": "#add8e6",
+        "highlight_note": ""
       }
     ]
   }
