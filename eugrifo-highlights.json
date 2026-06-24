@@ -2426,25 +2426,5 @@
         "highlight_note": ""
       }
     ]
-  },
-  "https://www.google.com/search?q=codepen&oq=codepen&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GIAEMgcIARAAGO8FMgcIAhAAGO8FMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgcIBRAAGI8C0gEIMjAwNmowajSoAgCwAgE&sourceid=chrome&ie=UTF-8": {
-    "date": "2026-06-24",
-    "title": "codepen - Pesquisa Google",
-    "thumbnail": "",
-    "tags": [
-      "web3",
-      "arte",
-      "nft"
-    ],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "id": "f2947225-a5ad-4a56-a991-680eb73e4269",
-        "highlight": "d Web Developer ...\n\n\nCodePen\nhttps://codepen.io\n·\nTraduzir esta página\nCodePen doesn't work very well without JavaScript. We're all for progr",
-        "color": "#e6df0a",
-        "highlight_note": ""
-      }
-    ]
   }
 }
