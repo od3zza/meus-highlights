@@ -2453,6 +2453,12 @@
         "highlight": "A blockchain, ou cadeia de blocos, é uma tecnologia de registro distribuído  que permite armazenar informações de forma transparente, anônima, auditável e  com banco de dados descentralizado. Funciona de modo semelhante a uma  planilha atualizada em tempo real entre todos que usam a mesma rede, mas onde  novos registros não podem ser alterados após serem inseridos na cadeia. Os  registros são chamados de “blocos” e são ligados ao anterior por meio de  criptografia, essa estrutura torna os dados praticamente imutáveis.",
         "color": "#90ee90",
         "highlight_note": ""
+      },
+      {
+        "id": "9e4c64d1-d5f0-4b5a-b74e-6e333fc6271b",
+        "highlight": "A propriedade de  descentralização se explica pelas informações não dependerem de um servidor  central, pois uma blockchain funciona como um livro de registros compartilhado  entre computadores — denominados “nós” — que integram a mesma rede que  mantém um funcionamento ininterrupto, 24 horas por dia, todos os dias",
+        "color": "#90ee90",
+        "highlight_note": ""
       }
     ]
   }
