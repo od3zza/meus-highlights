@@ -2517,6 +2517,12 @@
         "highlight": "O conceito da Web Semântica foi introduzido em 2001 por Tim Berners-Lee e propõe tornar a informação na internet compreensível para os computadores — não apenas para os humanos. A ideia é atribuir significado estruturado ao conteúdo por meio de padrões como o RDF (Resource Description Framework), que organiza dados em triplas do tipo sujeito → propriedade → objeto. Em vez de buscar palavras-chave isoladas, os sistemas podem interpretar relações: entendendo que \"peru\" se refere a uma ave e não a um país, ou respondendo a perguntas complexas combinando informações de múltiplas fontes.",
         "color": "#e6df0a",
         "highlight_note": ""
+      },
+      {
+        "id": "c11feafa-1497-4bb0-a785-edd7058acd6e",
+        "highlight": "trustless nas Blockchains significa que, em vez de confiar em pessoas ou instituições, você confia inteiramente na tecnologia — vista como imparcial e capaz de promover maior liberdade.",
+        "color": "#add8e6",
+        "highlight_note": ""
       }
     ]
   }
