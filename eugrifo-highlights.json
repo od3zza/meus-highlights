@@ -2426,5 +2426,28 @@
         "highlight_note": ""
       }
     ]
+  },
+  "https://repositorio.ufpe.br/bitstream/123456789/65915/1/DISSERTA%c3%87%c3%83O%20Manuella%20de%20Godoy%20e%20Silva.pdf": {
+    "date": "2026-06-24",
+    "title": "[DISSERTAÇÃO] Computadores Fazem Arte: Didática para Web3",
+    "thumbnail": "",
+    "tags": [
+      "web3",
+      "NFT",
+      "arte digital",
+      "blockchain",
+      "documento",
+      "pdf"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "31efa14e-937f-4aca-a4ea-0b8afe67e2e1",
+        "highlight": "Esta dissertação investiga o potencial educativo e social da Web3 por meio  da arte e da criação de NFTs (tokens não fungíveis), com o objetivo de ampliar o  acesso e a compreensão de tecnologias emergentes no Brasil. A pesquisa propõe e  desenvolve um material didático baseado em oficinas experimentais, abordando os  fundamentos da blockchain e das NFTs sob uma perspectiva crítica, acessível e  artística",
+        "color": "#e6df0a",
+        "highlight_note": ""
+      }
+    ]
   }
 }
