@@ -2447,6 +2447,12 @@
         "highlight": "Esta dissertação investiga o potencial educativo e social da Web3 por meio  da arte e da criação de NFTs (tokens não fungíveis), com o objetivo de ampliar o  acesso e a compreensão de tecnologias emergentes no Brasil. A pesquisa propõe e  desenvolve um material didático baseado em oficinas experimentais, abordando os  fundamentos da blockchain e das NFTs sob uma perspectiva crítica, acessível e  artística",
         "color": "#e6df0a",
         "highlight_note": ""
+      },
+      {
+        "id": "ed9c783e-32ed-48dc-910d-c1423c1e2dc8",
+        "highlight": "A blockchain, ou cadeia de blocos, é uma tecnologia de registro distribuído  que permite armazenar informações de forma transparente, anônima, auditável e  com banco de dados descentralizado. Funciona de modo semelhante a uma  planilha atualizada em tempo real entre todos que usam a mesma rede, mas onde  novos registros não podem ser alterados após serem inseridos na cadeia. Os  registros são chamados de “blocos” e são ligados ao anterior por meio de  criptografia, essa estrutura torna os dados praticamente imutáveis.",
+        "color": "#90ee90",
+        "highlight_note": ""
       }
     ]
   }
