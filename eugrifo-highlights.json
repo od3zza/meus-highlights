@@ -2593,5 +2593,21 @@
         "highlight_note": ""
       }
     ]
+  },
+  "https://itch.io/game/edit/3202712": {
+    "date": "2026-09-06",
+    "title": "Edit project - itch.io",
+    "thumbnail": "",
+    "tags": [],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "f54d5b69-9723-40e3-b505-1e7395a304b1",
+        "highlight": "CREATE YOUR OWN PATH",
+        "color": "#90ee90",
+        "highlight_note": ""
+      }
+    ]
   }
 }
