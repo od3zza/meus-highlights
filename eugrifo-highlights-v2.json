@@ -3,26 +3,8 @@
     "schema": 2,
     "app": "eugrifo"
   },
-  "https://oddpress.itch.io/underthetwilight": {
-    "date": "2026-11-09",
-    "title": "Under the Twilight by oddpress",
-    "thumbnail": "",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "updated_at": "2026-11-09T01:15:43.981Z",
-    "highlights": [
-      {
-        "id": "38e5acae-999b-4e0e-9d5c-4f5710e64544",
-        "highlight": "You defeated Uhmio, the Corruptor. The world moved on, but you didn't.\"\n\nUnder the Twilight is a one-page solo journaling game about memory, illusion, and what remains when the journey ends.\n\nUhmio doesn't attack the body; he corrupts your access to the past. You might hold a perfect memory in your mind and never know if it is truly yours. To find out what is left of you, you must retrace your steps from the very beginning.\n\nRemember. Write. And above all, doubt what you remember.\n\nThis game was created for the One-Page RPG Jam 2026.",
-        "color": "#ffd700",
-        "highlight_note": "",
-        "prefix": "3ViewbundleBuyNow$5.00USDormore\"",
-        "suffix": "TheExperienceUsingastandardTarot",
-        "created_at": "2026-11-09T01:15:43.981Z",
-        "updated_at": "2026-11-09T01:15:43.981Z"
-      }
-    ]
+  "_deleted": {
+    "38e5acae-999b-4e0e-9d5c-4f5710e64544": "2026-11-09T01:16:33.846Z"
   },
   "https://laurakbuzz.com/2020/05/19/lets-discuss-gamings-best-loading-screens-before-this-loading-screen-of-a-year-abolishes-them/": {
     "date": "2026-09-17",
