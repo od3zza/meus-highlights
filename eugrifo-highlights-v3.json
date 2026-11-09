@@ -3,26 +3,8 @@
     "schema": 2,
     "app": "eugrifo"
   },
-  "https://oddpress.itch.io/": {
-    "date": "2026-11-09",
-    "title": "oddpress - itch.io",
-    "thumbnail": "",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "updated_at": "2026-11-09T01:42:35.192Z",
-    "highlights": [
-      {
-        "id": "ec8424ae-d6be-4d89-88ff-fcd35a77c8ee",
-        "highlight": "Odd Press is a solo indie publisher by Uoshi. Crafting TTRPGs and small card games (˶ᵔ ᵕ ᵔ˶) Feel free to explore!\nTalk with me masdonstudio+oddpress@gmail.com | 🇧🇷   #RPGLatam",
-        "color": "#ffd700",
-        "highlight_note": "",
-        "prefix": "ess@oieuoshi.bsky.social—About👀",
-        "suffix": "UndertheTwilight$5InbundleAsolog",
-        "created_at": "2026-11-09T01:42:35.192Z",
-        "updated_at": "2026-11-09T01:42:35.192Z"
-      }
-    ]
+  "_deleted": {
+    "ec8424ae-d6be-4d89-88ff-fcd35a77c8ee": "2026-11-09T01:47:35.892Z"
   },
   "https://laurakbuzz.com/2020/05/19/lets-discuss-gamings-best-loading-screens-before-this-loading-screen-of-a-year-abolishes-them/": {
     "date": "2026-09-17",
